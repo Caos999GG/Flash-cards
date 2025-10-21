@@ -66,8 +66,8 @@ criaCartao(
 
 criaCartao(
     'Educação Financeira',
-    'O que é CDI?',
-    'CDI significa Certificado de Depósito Interbancário. É um título de empréstimo de curtíssimo prazo, geralmente de um dia útil, negociado entre bancos para que eles possam regularizar seus saldos diários de caixa. A média da taxa de juros dessas operações é a Taxa DI, que serve como um importante indicador de rentabilidade para diversos investimentos de renda fixa, como CDBs, LCIs e LCAs. '
+    'Qual é a formula dos juros simples?',
+    'J = C × i × t '
 )
 
 criaCartao(
